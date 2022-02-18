@@ -22,5 +22,7 @@
 /minigzipsh
 /zlib.pc
 /configure.log
+/contrib/vstudio/vc14/x64
+/contrib/vstudio/vc14/x86
 
 .DS_Store
