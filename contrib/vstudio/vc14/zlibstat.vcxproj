@@ -134,7 +134,7 @@
       <DebugInformationFormat>OldStyle</DebugInformationFormat>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <DisableSpecificWarnings>5105;4244;4530</DisableSpecificWarnings>
+      <DisableSpecificWarnings>5105;4244;4530;4267</DisableSpecificWarnings>
     </ClCompile>
     <ResourceCompile>
       <Culture>0x040c</Culture>
@@ -163,7 +163,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <DisableSpecificWarnings>5105;4244;4530</DisableSpecificWarnings>
+      <DisableSpecificWarnings>5105;4244;4530;4267</DisableSpecificWarnings>
     </ClCompile>
     <ResourceCompile>
       <Culture>0x040c</Culture>
@@ -224,7 +224,7 @@
       <DebugInformationFormat>OldStyle</DebugInformationFormat>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <DisableSpecificWarnings>5105;4244;4530</DisableSpecificWarnings>
+      <DisableSpecificWarnings>5105;4244;4530;4267</DisableSpecificWarnings>
     </ClCompile>
     <ResourceCompile>
       <Culture>0x040c</Culture>
@@ -256,7 +256,7 @@
       <SuppressStartupBanner>true</SuppressStartupBanner>
       <LanguageStandard>stdcpp20</LanguageStandard>
       <LanguageStandard_C>stdc17</LanguageStandard_C>
-      <DisableSpecificWarnings>5105;4244;4530</DisableSpecificWarnings>
+      <DisableSpecificWarnings>5105;4244;4530;4267</DisableSpecificWarnings>
       <WholeProgramOptimization>true</WholeProgramOptimization>
     </ClCompile>
     <ResourceCompile>
